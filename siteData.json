@@ -54,7 +54,6 @@
         "mass-reject-feature": "Mass Reject feature",
         "statistics-feature": "Statistics feature",
         "proposed-undo-redo-feature": "[Proposed] Undo/redo feature",
-        "proposed-data-archiving": "[Proposed] Data archiving",
         "planned-enhancements": "Planned Enhancements",
         "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
         "appendix-requirements": "Appendix: Requirements",
@@ -65,8 +64,10 @@
         "glossary": "Glossary",
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
         "launch-and-shutdown": "Launch and shutdown",
+        "adding-a-person": "Adding a Person",
         "deleting-a-person": "Deleting a person",
-        "saving-data": "Saving data"
+        "finding-persons-by-criteria": "Finding Persons by Criteria",
+        "sorting-persons-by-fields": "Sorting Persons by Fields"
       },
       "headingKeywords": {}
     },
