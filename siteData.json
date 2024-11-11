@@ -50,6 +50,8 @@
         "storage-component": "Storage component",
         "common-classes": "Common classes",
         "implementation": "Implementation",
+        "find-feature": "Find feature",
+        "mass-reject-feature": "Mass Reject feature",
         "statistics-feature": "Statistics feature",
         "proposed-undo-redo-feature": "[Proposed] Undo/redo feature",
         "proposed-data-archiving": "[Proposed] Data archiving",
