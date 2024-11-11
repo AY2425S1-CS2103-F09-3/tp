@@ -112,10 +112,11 @@
       "headings": {
         "talentcy-user-guide": "Talentcy User Guide",
         "quick-start": "Quick start",
+        "notes-when-you-open-the-app-a-gui-will-appear-with-a-few-sample-contacts-already-loaded-so-you-can-immediately-see-the-app-in-action": "Notes:\nWhen you open the app, a GUI will appear with a few sample contacts already loaded, so you can immediately see the app in action.",
         "features": "Features",
         "viewing-help-help": "Viewing help : help",
         "adding-a-person-add": "Adding a person: add",
-        "listing-persons-based-on-attribute-list": "Listing persons based on attribute : list",
+        "listing-all-persons-list": "Listing all persons : list",
         "editing-a-person-edit": "Editing a person : edit",
         "locating-persons-by-criteria-given-find": "Locating persons by criteria given: find",
         "deleting-a-person-delete": "Deleting a person : delete",
