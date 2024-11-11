@@ -52,6 +52,7 @@
         "implementation": "Implementation",
         "find-feature": "Find feature",
         "mass-reject-feature": "Mass Reject feature",
+        "delete-feature": "Delete feature",
         "statistics-feature": "Statistics feature",
         "proposed-undo-redo-feature": "[Proposed] Undo/redo feature",
         "planned-enhancements": "Planned Enhancements",
@@ -133,7 +134,7 @@
         "name": "NAME",
         "phone": "PHONE",
         "email": "EMAIL",
-        "jobcode": "JOBCODE",
+        "job-code": "JOB CODE",
         "tag": "TAG",
         "remark": "REMARK",
         "context-menu-options": "Context Menu Options",
@@ -148,7 +149,8 @@
         "select-all-2": "Select All",
         "faq": "FAQ",
         "known-issues": "Known issues",
-        "command-summary": "Command summary"
+        "command-summary": "Command summary",
+        "glossary": "Glossary"
       },
       "headingKeywords": {}
     },
