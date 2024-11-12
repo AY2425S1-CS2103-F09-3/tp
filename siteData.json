@@ -53,6 +53,7 @@
         "find-feature": "Find feature",
         "mass-reject-feature": "Mass Reject feature",
         "delete-feature": "Delete feature",
+        "sort-feature": "Sort feature",
         "statistics-feature": "Statistics feature",
         "proposed-undo-redo-feature": "[Proposed] Undo/redo feature",
         "planned-enhancements": "Planned Enhancements",
